@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Dre study journal
+description:    "My personal journal where I post my links or findings and comment on them"
+baseurl:        ""
+url:            "https://dre.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Andre Cerqueira
+  url:          
+  email:        afbcerqueira@gmail.com
 
 # Build settings
 markdown:       kramdown
