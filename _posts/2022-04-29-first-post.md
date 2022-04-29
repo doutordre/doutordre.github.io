@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 This entry is an Introduction where I explain why I started the blog and what I want to do with it. I made sure to change the excerpt as I found this feature interesting.<!--more-->
 <br>
+<br>
 > Suggest keeping a blog or similar of research links and commenting on these
 
 Was the comment that Marc, my manager, left on one of my workplace performance Goals which promped me to actually start one. I guess my chronic inertia is only beaten when my livelihood is on the line...
