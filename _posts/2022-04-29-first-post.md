@@ -5,9 +5,7 @@ author: "Andre Cerqueira"
 tags: testing-Jekyll
 excerpt_separator: <!--more-->
 ---
-
 This entry is an Introduction where I explain why I started the blog and what I want to do with it. I made sure to change the excerpt as I found this feature interesting.<!--more-->
----
 
 > Suggest keeping a blog or similar of research links and commenting on these
 
